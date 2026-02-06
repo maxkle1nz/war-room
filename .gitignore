@@ -1,0 +1,20 @@
+# War room sessions (personal data)
+war-rooms/*/agents/
+war-rooms/*/comms/
+war-rooms/*/lessons/
+war-rooms/*/artifacts/
+war-rooms/*/DECISIONS.md
+war-rooms/*/STATUS.md
+war-rooms/*/BLOCKERS.md
+war-rooms/*/TLDR.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
