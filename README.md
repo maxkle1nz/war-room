@@ -181,6 +181,22 @@ war-rooms/my-project/
 
 ---
 
+## FAQ
+
+**"Isn't this just prompt engineering?"**
+The protocols ARE structured prompts. That's the point. "Prompt engineering" that produces measurably different results isn't a dismissal — it's a description. The question isn't whether it's prompt engineering. It's whether it works. Run a war room and compare the output to your usual workflow.
+
+**"Why would I want AI to disagree with me?"**
+You don't want disagreement. You want accuracy. The CHAOS agent doesn't disagree for sport — it stress-tests decisions so the ones that survive are the ones worth shipping. It's the difference between "great idea!" and "great idea, but here's how it fails."
+
+**"19 protocols is too many."**
+Start with the Essential 7. They cover 80% of the value. The other 12 are there when you want deeper analysis. You don't need to learn all 19 to get started — you need to run `init_war_room.sh` and write a brief.
+
+**"How is this different from CrewAI / AutoGen / MetaGPT?"**
+Those are agent orchestration frameworks — they help you run multiple agents. War Room is a **decision methodology** that happens to use multiple agents. The difference is the DNA: mandatory protocols that force agents to question assumptions, declare ignorance, and attack their own conclusions. You could implement War Room on top of CrewAI if you wanted.
+
+---
+
 ## Contributing
 
 War Room is open source because the best knowledge is the kind that's passed forward.
