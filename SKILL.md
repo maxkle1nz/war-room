@@ -151,6 +151,27 @@ The key insight: agents that DESIGNED the system can also PRODUCE deliverables f
 
 When executing Phase 3, spawn agents with the full war room context (blueprint + decisions + specialist docs) so they build ON the decisions, not from scratch.
 
+### Reverse War Room (addon)
+
+The standard War Room builds UPWARD (from zero to product). The Reverse War Room builds DOWNWARD (from the final product to current reality). Use both together for maximum clarity.
+
+**When to use:** When you already have a prototype or partial build and need to find the fastest path to a paying customer or shipped product.
+
+**Agents:**
+1. **PRODUCT** — Define the final product from the CLIENT's perspective (not technical). Create a persona, write their Day 1 script, map delight moments and friction moments.
+2. **REVERSE** — Map backwards from PRODUCT's vision to today's reality. Number every gap, size every gap in agent-hours, show the critical path. Produce a kill list (what NOT to build).
+3. **CHAOS** — Destroy illusions. Find the single thing that kills the project. Write honest odds.
+
+**Key outputs:**
+- Day 1 client script (complete interaction flow)
+- Gap map (numbered, sized, categorized)
+- Critical path (minimum ordered sequence)
+- Kill list (what to NOT build — saves 30-50% of effort)
+- The Killer (single fatal risk)
+- Honest odds (real probabilities with math)
+
+**Track record:** First tested on KOSMO (Feb 8, 2026). Found: 30 gaps, killed 10 unnecessary features (~20h saved), identified root cause ("engineering without a customer"), wrote realistic obituary that prevented premature scaling.
+
 ## INTERCEPTOR — Autonomous War Room Controller
 
 The INTERCEPTOR is the War Room's interface and autonomy layer. It manages the session, communicates with the Operator, and **never stops**.
