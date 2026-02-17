@@ -1,4 +1,4 @@
-# WAR ROOM OUTPUT — Music Career: Sign the Deal or Stay Independent?
+w   # WAR ROOM OUTPUT — Music Career: Sign the Deal or Stay Independent?
 
 **Session:** 2026-02-07 | **Agents:** FINANCE, MKT, CHAOS | **TEMPO:** CRAFT
 
